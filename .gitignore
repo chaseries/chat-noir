@@ -1,0 +1,9 @@
+client/
+.DS_Store
+*.swp
+.cabal-sandbox
+dist/
+dist-newstyle/
+cabal.sandbox.config
+runghcid
+.env
